@@ -1,0 +1,83 @@
+body {
+    font-family: 'Adamina', serif;
+    background-color: aqua;
+}
+.top-container {
+    width: 240px;
+    height: 366px;
+}
+.Atrokhina {
+    position: absolute;
+    top: 345px;
+    left: 1120px;
+    font-size: 16px;
+}
+.bogdanova {
+    font-size: 16px;
+    position: absolute;
+    top: 345px;
+    left: 8px;
+    width: 210px;
+}
+.table {
+    border-color: black;
+    border: solid;
+}
+td {
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+    border: black;
+    border: solid;
+}
+.left-container1 {
+    width: 120px;
+}
+.central-container1 {
+    width: 220px;
+}
+.right-container1 {
+    width: 120px;
+}
+ul {
+    color: black;
+    position: absolute;
+    top: 420px;
+    left: 15px;
+}
+.cenral-container {
+    margin-top: 20px;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-bottom: 20px;
+    font-family: 'Adamina', serif;
+    background-color: white;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+}
+.title {
+   text-align: center;
+}
+.myclass {
+    font-family: 'Adamina', serif;
+    margin-bottom: 0;
+    color:lightblue;
+}
+.epigraf {
+    font-family: 'Lobster', cursive;
+    margin: 0;
+    padding-bottom: 20px;
+    font-size: larger;
+}
+.liceum {
+    width: 850px;
+    height: 200px;
+    margin-left: 250px;
+    background-color: white;
+}
+.flag2 {
+    background-color: yellow;
+}
+.flag1 {
+    background-color: blue;
+}
